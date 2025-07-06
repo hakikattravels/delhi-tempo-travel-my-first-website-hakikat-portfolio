@@ -1,6 +1,6 @@
 <!DOCTYPE # Jai Maa Bala Sundari Travels 🚐
 
-**Welcome to the official travel project of Jai Maa Bala Sundari Travels!**
+**Main to the official travel project of Jai Maa Bala Sundari Travels!**
 
 We provide reliable and comfortable **17-Seater AC Tempo Traveller** service from **Indra Vikas Colony, Mukherjee Nagar, Delhi**.
 
