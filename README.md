@@ -1,4 +1,49 @@
-<!DOCTYPE html>
+<!DOCTYPE # Jai Maa Bala Sundari Travels 🚐
+
+**Welcome to the official travel project of Jai Maa Bala Sundari Travels!**
+
+We provide reliable and comfortable **17-Seater AC Tempo Traveller** service from **Indra Vikas Colony, Mukherjee Nagar, Delhi**.
+
+---
+
+## 📍 About Us
+
+- ✅ AC Tempo Traveller (17 Seater)
+- ✅ Pickup from Mukherjee Nagar, Delhi
+- ✅ Ideal for Family Trips, Group Tours, Pilgrimage, and Outstation Travel
+- ✅ Courteous Driver, Clean Interior, On-Time Service
+
+---
+
+## 📲 Book Your Ride
+
+📞 **Contact via WhatsApp:** [Click to Book](https://wa.me/919991109419)
+
+---
+
+## 🌐 Live Website
+
+👉 **[Visit our Website here](https://hakikattravels.github.io/delhi-tempo-travel-my-first-website-hakikat-portfolio/)**
+
+---
+
+## 🗺️ Location
+
+📍 Indra Vikas Colony, Mukherjee Nagar, New Delhi  
+📌 [View on Google Maps](https://www.google.com/maps?q=Indra+Vikas+Colony,+Mukherjee+Nagar,+Delhi)
+
+---
+
+## 🛠️ Built With
+
+- HTML & CSS only (Simple static website)
+- Hosted on **GitHub Pages**
+
+---
+
+## 🙏 Jai Maa Bala Sundari 🙏
+
+Feel free to fork, star ⭐, and share!
 <html lang="hi">
 <head>
   <meta charset="UTF-8" />
